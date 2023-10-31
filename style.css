@@ -1,0 +1,43 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+    background: url(images/sunny-vibes.webp);
+   
+}
+a{
+    display:inline-block;
+    background-color: #ffc0cb;
+    padding: 10px;
+    text-decoration: none;
+    color: #ffffff;   
+    margin: 15px; 
+}
+a:hover{
+    background-color: #00ffff;
+}
+h1{
+    text-align: center;
+    
+}
+main{
+   width: 1000px;
+   margin: auto;
+}
+section{
+    display: flex;
+}
+p{
+    width: 350px;  
+    padding: 50px; 
+    font-weight: 300px;
+}
+figure{
+    width: 500px;
+    text-align: center;
+    padding-top: 50px;
+}
+footer{
+    text-align: center;
+    padding: 25px;
+}
